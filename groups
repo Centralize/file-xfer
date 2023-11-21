@@ -1,0 +1,49 @@
+dn: cn=OT-IAM-PKI,ou=Groups,dc=sde,dc=lan
+cn: OT-IAM-PKI
+gidNumber: 5001
+  memberUid: uid=xsabe,ou=People,dc=sde,dc=lan
+  memberUid: uid=xladi,ou=People,dc=sde,dc=lan
+  memberUid: uid=xsret,ou=People,dc=sde,dc=lan
+  memberUid: uid=xmika,ou=People,dc=sde,dc=lan
+  memberUid: uid=xjoab,ou=People,dc=sde,dc=lan
+  memberUid: uid=xlart,ou=People,dc=sde,dc=lan
+  memberUid: uid=xkeeh,ou=People,dc=sde,dc=lan
+
+dn: cn=OT-Pipeline,ou=Groups,dc=sde,dc=lan
+cn: OT-Pipeline
+gidNumber: 5003
+  memberUid: xbrvr
+  memberUid: xesho
+  memberUid: xjokp
+  memberUid: jfi
+  memberUid: jtc
+
+dn: cn=OT-Infrastructure,ou=Groups,dc=sde,dc=lan
+cn: OT-Infrastructure
+gidNumber: 5002
+  memberUid: xkrik
+  memberUid: xlark
+  memberUid: xsrre
+  memberUid: xkvma
+  memberUid: jtx
+  memberUid: jnw
+
+dn: cn=OT-Platform-Services,ou=Groups,dc=sde,dc=lan
+cn: OT-Platform-Services
+gidNumber: 5005
+  memberUid: rth
+  memberUid: xjbax
+  memberUid: xjccr
+  memberUid: xnbas
+  memberUid: shb
+  memberUid: mcx
+  memberUid: xgbpe
+  memberUid: htf
+
+dn: cn=OT-Compliance-Security,ou=Groups,dc=sde,dc=lan
+gidNumber: 5004
+cn: OT-Compliance-Security
+
+dn: cn=OT-Operational-Support,ou=Groups,dc=sde,dc=lan
+cn: OT-Operational-Support
+gidNumber: 5006
